@@ -8,7 +8,7 @@
   
 ## 💫 About Me:
 - 🔭 I’m currently studying.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning PyTorch.
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about Flask.
 - 📫 How to reach me: agusponce055@gmail.com.
